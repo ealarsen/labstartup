@@ -1,0 +1,37 @@
+URLs for Helpful R and Github resources
+Created by E. Larsen, Ries Lab. 2019-01-09
+
+*** Resources for R ***
+
+Homepage: https://cran.r-project.org/
+RStudio: https://www.rstudio.com/
+
+--------------
+Helpful links:
+https://www.computerworld.com/article/2497143/business-intelligence/business-intelligence-beginner-s-guide-to-r-introduction.html
+
+https://www.rstudio.com/online-learning/
+
+https://blog.rstudio.com/2014/07/22/introducing-tidyr/
+
+https://www.rstudio.com/resources/cheatsheets/
+
+http://www.google.com & https://stackoverflow.com/
+
+###############################################################################################################
+
+*** Resources for Git ***
+
+Homepage: https://github.com/
+
+--------------
+Helpful links:
+https://guides.github.com/activities/hello-world/
+
+https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+
+###############################################################################################################
+
+*** Resources for combining Git and R ***
+
+http://happygitwithr.com/
